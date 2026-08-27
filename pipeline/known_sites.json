@@ -1,0 +1,17 @@
+{
+  "_readme": "Arquivo de locais manuais de residuos solidos. Adicione coordenadas de aterros/lixoes obtidas via SNIS PDF, prefeitura, ou Google Maps. Fonte e ano sao obrigatorios.",
+  "sites": [
+    {
+      "nome": "Aterro Sanitario de Vilhena (CTR)",
+      "cidade": "Vilhena",
+      "uf": "RO",
+      "ibge": 1100304,
+      "lat": -12.7450,
+      "lon": -60.1500,
+      "tipo": "aterro_sanitario",
+      "fonte": "SNIS RS 2022 / estimativa prefeitura",
+      "ano": 2022,
+      "obs": "Coordenadas aproximadas. Verificar e corrigir com dados oficiais da prefeitura de Vilhena ou SNIS diagnostico RS."
+    }
+  ]
+}
